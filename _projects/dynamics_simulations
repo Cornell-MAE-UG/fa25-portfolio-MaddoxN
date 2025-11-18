@@ -1,0 +1,11 @@
+---
+layout: project
+title: Dynamical Simulations
+description: Dynamical System Modeling and Simulation
+technologies: [MATLAB]
+image: /assets/images/Simple_Double_Pendulum.gif
+---
+
+In my Dynamics course, I built a MATLAB simulation and animation of a double pendulum to explore dynamical system behavior. I first used MATLAB’s Symbolic Toolbox to derive the equations of motion with Newton’s second law and Euler’s equations. Then, I numerically integrated the system using ode45, and developed an animation to visualize the trajectories of both masses and links.
+
+This project strengthened my understanding of core dynamics concepts and sparked a deeper interest in computational modeling and simulation for analyzing and predicting complex system behavior.

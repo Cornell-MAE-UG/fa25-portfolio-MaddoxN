@@ -1,0 +1,15 @@
+---
+layout: project
+title: Carrier Drone
+description: Advanced CAD and CNC Manufacturing Project
+technologies: [Autodesk Fusion, Onshape, CNC Manufacturing]
+image: /assets/images/Carrier_Drone.png
+---
+
+As the Mechanical Lead of Cornell University's Autonomous Drone Project team, I help design, manufacture, and test our ambitious projects and ideas. One of these was our Carrier Drone, a 4-foot wide and 13 kg drop-platform capable of deploying a variety of subdrones. The carbon-fiber frame of the drone is equipt with a modular dropping mechanism compatible with simple hooks attatchments, allowing for flexible payload deployment across different drone configurations.
+
+My primary responsibilities on this project were designing the battery plate and mount on the top of the drone. This involved designing and iterating a CAD model, for which I used the cloud-based, collaborative software called PTC Onshape. I was also the lead machinist on this project. I fabricated all carbon-fiber plates comprising the central frame and battery assembly using Carvera’s desktop CNC machine. To program the NC toolpaths, I used Autodesk Fusion 360's manufacturing menu. 
+
+This drone underwent several sucessful drop-tests. For example, we dropped a small, test drone from the dropper mechanism and we were able to control the test drone after its sucessful decoupling from the dropper mechanism. In addition, we independently flew the carrier for over 40 minutes, demonstrating its extended flight capabilities. 
+
+

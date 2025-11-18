@@ -1,0 +1,10 @@
+---
+layout: project
+title: Load Cell
+description: FEA stress and strain analysis on load cell
+technologies: [ANSYS Mechanical, Fusion 360]
+image: /assets/images/Load_Cell.png
+---
+
+In my Mechanics of Materials course, my partner and I designed a load cell by first modeling its geometry in Fusion 360 and then simulating its behavior in ANSYS Mechanical. We applied external forces to evaluate stresses and deflections, focusing on the maximum deformation along the ring’s circumference. Based on the simulation results, we selected an appropriate material that met the project’s deflection limits and safety factor requirements.
+

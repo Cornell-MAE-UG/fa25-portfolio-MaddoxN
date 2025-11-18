@@ -1,0 +1,9 @@
+---
+layout: project
+title: Drone CFD Simulation
+description: Computational Fluid Dynamics Simulation
+technologies: [ANSYS Fluent, ANSYS Workbench, Onshape]
+image: /assets/images/drone_Simulation.png
+---
+
+Our drone team designed an electric ducted fan, fixed-wing glider as one of our projects. To validate the design, it was critical to predict the drone’s lift and drag before physical testing. I conducted computational fluid dynamics (CFD) simulations in ANSYS Fluent on the drone’s wing to analyze lift and drag forces, ensuring that its aerodynamic performance met design expectations. I corrobereated the CFD predictions with hand hand calculations. 
