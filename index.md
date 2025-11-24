@@ -6,7 +6,7 @@ title: Maddox Nesterczuk
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/Maddox_Nesterczuk_Profile_Picture.jpeg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
 
  
 My name is Maddox Nesterczuk, and I am a Mechanical and Aerospace Engineering student at Cornell University. I have a passion for spacecraft technology, autonomous vehicles, and simulation and modeling. I have experience with a variety of CAD and Simulation software, including ANSYS Mechanical, ANSYS Fluent, Fusion 360, and more, which I use to engineer mechanical and aerospace solutions from numerical models to quadcopters.
