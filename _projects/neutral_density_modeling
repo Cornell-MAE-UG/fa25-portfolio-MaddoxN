@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: projectgit add .
 title: Electrospray Thruster Modeling
 description: Advanced Data Analysis Project
 technologies: [Python, ParaView, VS Code]
@@ -9,4 +9,6 @@ image: /assets/images/neutral_density_model.png
 Electrospray thrusters use a static electric field to accelerate charged ions from a standstill, producing a thrust force on the spacecraft that the thruster is mounted to. Understanding the distribution of particles within the exhaust plume of these thrusters is important for mitigating potential inefficiencies and damages to the spacecraft. I analyzed data from an electrospray thruster simulation in Python in order to build a model of the neutral particles in these plumes.
 
 Shown here is a heatmap I created of a tuned model's predictions of neutral particle density. This work was done in Python utilizing many versatile libraries, from numpy to scipy. In addition, I used the data visualization software ParaView to further understand the behavior of the simulations, information I used to develop the neutral density model.
+
+Download my slideshow presentation: [Presentation]({{ "/assets/Neutral_Density_Presentation.pdf" | relative_url }})
 
