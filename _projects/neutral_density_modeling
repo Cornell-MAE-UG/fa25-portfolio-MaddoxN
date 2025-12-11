@@ -1,5 +1,5 @@
 ---
-layout: projectgit add .
+layout: project
 title: Electrospray Thruster Modeling
 description: Advanced Data Analysis Project
 technologies: [Python, ParaView, VS Code]
