@@ -1,0 +1,9 @@
+---
+layout: project
+title: Spacecraft Attitude Control System
+description: Advanced Non Linear Dynamics Simulation of Attitude Control System
+technologies: [Simulink, MATLAB]
+image: /assets/images/ACS_Model.png
+---
+
+I designed a spacecraft attitude control system (ACS) in MATLAB Simulink to model the rigid-body attitude dynamics of a spacecraft with reaction wheels. The Simulink model takes as inputs the torque imparted by the reaction wheels, the spacecraft’s inertia matrix, and the Jacobian that represents the orientations of the reaction wheels on the spacecraft. The model outputs the time-history of the quaternion that represents the system’s attitude. I also created an animation to visualize the spacecraft’s orientation as a function of time by using MATLAB Graphics.
