@@ -3,6 +3,7 @@ layout: project
 title: Dissection of Lawn Mower Engine
 description: Performed a dissection and analysis of a one cylinder lawn mower engine.
 technologies: [Google Slides, hand tools]
+image: /assets/images/lawnmower_engine.jpg
 ---
 
 My peers and I dissected and analyzed a one cylinder lawn mower engine in my Fluid Mechanics course. We use hand tools to seperate the system components for the purpose of discovering how it operates and what fluid mechanical principles it utilizes. I was responsible for performing a viscous shear stress an analysis on the hydrodynamic bearing, the component that holds the engine's crankshaft in place. I also aided in the dissection of the system and measured dimensions for various components like the carberator and gears.
